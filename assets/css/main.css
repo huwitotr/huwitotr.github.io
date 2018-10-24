@@ -1709,6 +1709,10 @@ input, select, textarea {
 			background-color: #3BA8D3;
 			top: 1px;
 		}
+	   
+		.botonpropio {
+			background-color: #18ce0f;
+			color: #FFFFFF;}
 
 		input[type="button"].large,
 		input[type="submit"].large,
